@@ -1,0 +1,36 @@
+# Visual Studio archivos temporales, binarios y configuraciones locales
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+*.db
+*.opendb
+*.VC.db
+*.VC.opendb
+*.obj
+*.idb
+*.ilk
+
+# Archivos de compilación
+bin/
+obj/
+Debug/
+Release/
+
+# Configuración de paquetes NuGet
+*.nupkg
+packages/
+project.lock.json
+
+# Archivos de publicación
+publish/
+out/
+
+# Configuración de Rider/ReSharper (si usas JetBrains)
+.idea/
+*.sln.DotSettings.user
+
+# Configuración de sistema operativo
+.DS_Store
+Thumbs.db
