@@ -16,16 +16,13 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="Images\key.png" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Folder Include="Model\" />
     <Folder Include="ViewModel\" />
   </ItemGroup>
 
   <ItemGroup>
     <Resource Include="Images\Background.jpeg" />
+    <Resource Include="Images\key.png" />
     <Resource Include="Images\Logo.png" />
     <Resource Include="Images\user.png" />
   </ItemGroup>
